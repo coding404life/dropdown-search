@@ -168,5 +168,4 @@ export function initDropdown() {
 
   // Initial data fetch and render recent items
   initFetchingData();
-  renderRecentItems();
 }
