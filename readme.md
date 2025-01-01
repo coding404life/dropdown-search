@@ -28,5 +28,5 @@ Follow these steps to get the project up and running on your local machine:
 ### 1. Clone the repository
 
 ```sh
-git clone https://github.com/your-username/dropdown-search-app.git
+git clone https://github.com/coding404life/dropdown-search.git
 cd dropdown-search-app
