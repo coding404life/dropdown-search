@@ -30,6 +30,9 @@ Follow these steps to get the project up and running on your local machine:
 
  ```bash
     git clone https://github.com/coding404life/dropdown-search.git
+```
+
+ ```bash
     cd dropdown-search-app
 ```
 
