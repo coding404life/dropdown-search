@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Custom Dropdown</title>
+    <link rel="stylesheet" href="/src/style.css" />
+  </head>
+  <body>
+    <div id="search-container">
+      <div id="dropdown-search" class="search-with-tags">
+        <div id="tags-container"></div>
+        <input type="text" id="search-input" placeholder="Search..." />
+      </div>
+    </div>
+
+    <div id="dropdown-container">
+      <div class="recent-container-header">
+        <h4 class="recent">Recent</h4>
+        <a id="see-all">See all</a>
+      </div>
+
+      <div id="recent-and-history-container-items"></div>
+
+      <ul id="dropdown-list"></ul>
+    </div>
+
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>
